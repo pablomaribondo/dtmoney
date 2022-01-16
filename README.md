@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/logo.svg" width="400px" alt="dtmoney" />
+  <img src=".github/logo.svg" width="300px" alt="dtmoney" />
 </h1>
 
 <h4 align="center">
@@ -10,7 +10,7 @@
 
 Projeto desenvolvido durante o programa de aceleração profissional **Ignite**, oferecido pela [Rocketseat][rocketseat].
 
-A aplicação desenvolvida tem por finalidade apresentar uma listagem de repositórios do github.
+A aplicação desenvolvida tem por finalidade monitorar despesas.
 
 ## 🛠 Tecnologias
 
